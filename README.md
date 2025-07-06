@@ -14,9 +14,9 @@ This repository showcases the project I've built to demonstrate my technical ski
 - **Libraries/Frameworks**: React, Express  
 - **Tools**: Power BI, VS Code  
 
-💻 **Projects**: A collection of the projects I've worked on, highlighting real-world applications, problem-solving abilities, and UI/UX design.  
+💻 **Project**: A recent project I've worked on, highlighting real-world applications, problem-solving abilities, and design.  
 
-📬 **Contact**: A section with my email and social links, allowing recruiters, collaborators, or visitors to get in touch.  
+📬 **Contact**: A section with my email allowing recruiters, collaborators, or visitors to get in touch.  
 
 ## ✨ Features
 - Fully responsive design  
